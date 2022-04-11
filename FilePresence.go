@@ -1,4 +1,4 @@
-package main
+package back_finder
 
 type FilePresence struct {
 	IsFilePresent   bool
